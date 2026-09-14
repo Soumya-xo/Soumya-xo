@@ -36,14 +36,14 @@ I build full-stack web applications and AI-powered systems, with a focus on **RA
 ### 🧠 DocuMind AI
 AI-powered document intelligence platform with RAG, FAISS, LangChain, Ollama, and Gemini.
 
-### 🗺️ Pathfinding Visualizer
-Interactive visualization of BFS, DFS, Dijkstra's Algorithm, and A* Search.
+### 💻 CodeReviser
+AI-powered coding and developer productivity project.
 
 ### 🔀 Sorting Visualizer
 Interactive sorting algorithm visualizer built with React and JavaScript.
 
-### 💻 CodeReviser
-AI-powered coding and developer productivity project.
+### 🗺️ Pathfinding Visualizer
+Interactive visualization of BFS, DFS, Dijkstra's Algorithm, and A* Search.
 
 ---
 
